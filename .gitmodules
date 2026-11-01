@@ -1,0 +1,6 @@
+[submodule "Tiny_C_Projects"]
+	path = Tiny_C_Projects
+	url = https://github.com/dangookin/Tiny_C_Projects.git
+[submodule "Unity"]
+	path = Unity
+	url = https://github.com/ThrowTheSwitch/Unity.git
